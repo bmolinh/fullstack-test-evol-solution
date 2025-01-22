@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/bmolinh/nestjs-todo-tasks-ms.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/bmolinh/vite-react-tailwind-todo-tasks-app.git
